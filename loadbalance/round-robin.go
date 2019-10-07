@@ -2,7 +2,7 @@ package loadbalance
 
 import (
 	"net"
-	".."
+	"github.com/missdeer/ProxyClient"
 )
 
 func NewRoundRobin(proxies []proxyclient.Dial) proxyclient.Dial {
