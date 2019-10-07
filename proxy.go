@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	httpProxy "github.com/RouterScript/HTTPProxy"
-	socksProxy "github.com/RouterScript/SOCKSProxy"
+	httpProxy "github.com/missdeer/HTTPProxy"
+	socksProxy "github.com/missdeer/SOCKSProxy"
 )
 
 func newDirectProxyClient(proxy *url.URL, _ Dial) (dial Dial, err error) {
