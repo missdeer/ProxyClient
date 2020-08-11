@@ -4,11 +4,15 @@ github.com/missdeer/HTTPProxy v0.0.0-20191007125451-db8a80107c09 h1:U4BZfq5Hseo4
 github.com/missdeer/HTTPProxy v0.0.0-20191007125451-db8a80107c09/go.mod h1:TwWZNvDx00ApZIt5Dmo7WGcIcgIJTxYcIrlUwMm05M8=
 github.com/missdeer/SOCKSProxy v0.0.0-20191007125905-229a1d9deeb6 h1:47pnpGb8BgSG2EOKavFG0capynOZdKEA1UwpYDQWt/0=
 github.com/missdeer/SOCKSProxy v0.0.0-20191007125905-229a1d9deeb6/go.mod h1:VTWHsxH+8sQ0ovgOlWj8xBk6IzEqTKm8Ik2/ZBYUcLw=
+github.com/riobard/go-bloom v0.0.0-20200213042214-218e1707c495 h1:p7xbxYTzzfXghR1kpsJDeoVVRRWAotKc8u7FP/N48rU=
 github.com/riobard/go-bloom v0.0.0-20200213042214-218e1707c495/go.mod h1:HgjTstvQsPGkxUsCd2KWxErBblirPizecHcpD3ffK+s=
 github.com/shadowsocks/go-shadowsocks2 v0.1.0 h1:jQhkjAmMuOTQ7B04bnrRJ5IAoZEwoaXXkKspE7rQ6ck=
 github.com/shadowsocks/go-shadowsocks2 v0.1.0/go.mod h1:/0aFGbhK8mtOX4J/6kTJsPLZlEs9KnzKoWCOCvjd7vk=
+github.com/shadowsocks/go-shadowsocks2 v0.1.2 h1:R8Ula/Z9duCmHyD89mGT4Do4nkRA6jnqIO8shn1PmTg=
+github.com/shadowsocks/go-shadowsocks2 v0.1.2/go.mod h1:SiGEqep4n+bS5wCZwi6ZgX1MAGRV9erk0zsVOXZ7QvA=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20190426145343-a29dc8fdc734/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
+golang.org/x/crypto v0.0.0-20200128174031-69ecbb4d6d5d/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
 golang.org/x/crypto v0.0.0-20200414173820-0848c9571904 h1:bXoxMPcSLOq08zI3/c5dEBT6lE4eh+jOh886GHrn6V8=
 golang.org/x/crypto v0.0.0-20200414173820-0848c9571904/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
 golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
