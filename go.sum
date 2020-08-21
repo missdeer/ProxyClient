@@ -10,6 +10,8 @@ github.com/shadowsocks/go-shadowsocks2 v0.1.0 h1:jQhkjAmMuOTQ7B04bnrRJ5IAoZEwoaX
 github.com/shadowsocks/go-shadowsocks2 v0.1.0/go.mod h1:/0aFGbhK8mtOX4J/6kTJsPLZlEs9KnzKoWCOCvjd7vk=
 github.com/shadowsocks/go-shadowsocks2 v0.1.2 h1:R8Ula/Z9duCmHyD89mGT4Do4nkRA6jnqIO8shn1PmTg=
 github.com/shadowsocks/go-shadowsocks2 v0.1.2/go.mod h1:SiGEqep4n+bS5wCZwi6ZgX1MAGRV9erk0zsVOXZ7QvA=
+github.com/shadowsocks/go-shadowsocks2 v0.1.3 h1:orbzVR/BM+SW2K6n9Sy3u/7UneOw/KxpEbCz+hjCCOI=
+github.com/shadowsocks/go-shadowsocks2 v0.1.3/go.mod h1:SiGEqep4n+bS5wCZwi6ZgX1MAGRV9erk0zsVOXZ7QvA=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20190426145343-a29dc8fdc734/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
 golang.org/x/crypto v0.0.0-20200128174031-69ecbb4d6d5d/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
